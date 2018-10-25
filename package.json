@@ -1,0 +1,26 @@
+{
+  "name": "todo",
+  "version": "0.0.1",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "axios": "^0.18.0",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "^2.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "debug": "react-scripts start --debug",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
